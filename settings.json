@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Supreme_Kai",
+    "username": "Chopped fr",
     "password": "",
     "type": "offline"
   },
@@ -30,7 +30,7 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "67"
+        "Gooogagaa"
       ]
     },
     "chat-log": true,
@@ -80,7 +80,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
